@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "javascript play website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-kumar-thakur/website.git"
+  },
+  "keywords": [
+    "react",
+    "js"
+  ],
+  "author": "Abhishek Kumar Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-kumar-thakur/website/issues"
+  },
+  "homepage": "https://github.com/abhishek-kumar-thakur/website#readme"
+}
