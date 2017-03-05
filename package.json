@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/abhishek-kumar-thakur/website/issues"
   },
-  "homepage": "https://github.com/abhishek-kumar-thakur/website#readme"
+  "homepage": "https://github.com/abhishek-kumar-thakur/website#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
 }
